@@ -1,7 +1,7 @@
 ---
 title: "Irish Public Hospital Waiting List Analysis"
 subtitle: "NTPF Open Data 2024–2026 | Health Data Science Portfolio"
-author: "Conor McCool"
+author: "mccoolsa"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
